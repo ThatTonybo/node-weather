@@ -1,3 +1,5 @@
+[![install size](https://packagephobia.now.sh/badge?p=weather)](https://packagephobia.now.sh/result?p=weather)  
+
 # node-weather
 Weather is a node module that makes it easy to get the weather for anywhere in the world.
 
