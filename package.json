@@ -1,0 +1,16 @@
+{
+  "name": "weather",
+  "version": "1.0.1",
+  "description": "An easy way to fetch the weather.",
+  "directories": {
+    "lib": "src/",
+    "example": "examples/"
+  },
+  "main": "src/index.js",
+  "author": "ThatTonybo <twatt74@eq.edu.au>",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "dependencies": {
+    "phin": "^3.4.0"
+  }
+}
