@@ -8,8 +8,14 @@ npm install weather
 yarn add weather
 ```
 
-## Example
+## Getting started
 Weather uses the here.com weather API. You'll need an appID and appCode from here.com before using the Weather module. When you have them, import the module, and pass them through.
+
+### Getting a here.com appID and appCode
+Click [here](https://developer.here.com/plans?create=Freemium-Basic&keepState=true&step=account) to create a free here.com account. Once finished and confirmed, get your appID and appCode.
+
+### Example
+Here's a quick example of getting the weather for Brisbane, Australia:
 ```js
 const Weather = require('weather');
 
