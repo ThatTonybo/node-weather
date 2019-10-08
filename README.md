@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="auto" height="190" src="blob:https://imgur.com/cf7564ad-3d9f-4846-b183-45fb7a60c74d">
+  <img width="auto" height="190" src="https://i.imgur.com/mcLE2k3.png">
 </p>
 
 # node-weather
