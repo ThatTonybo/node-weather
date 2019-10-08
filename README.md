@@ -9,8 +9,12 @@ A module that makes it easy to get the weather for anywhere in the world.
 
 ## Install
 You can install node-weather from npm or yarn, provided a recent version of node.js is installed.
-```npm install weather```
-```yarn add weather```
+```
+npm install weather
+```
+```
+yarn add weather
+```
 
 ## Getting started
 node-weather uses the [here.com](https://here.com) weather API. You'll need an `appID` and `appCode` from here.com before using node-weather. When you have them, import the module, and pass them through.
